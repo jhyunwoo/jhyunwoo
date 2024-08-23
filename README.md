@@ -1,6 +1,10 @@
-<div align= "center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhyunwoo&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact"/>
-<img src="https://wakapi.dev/api/badge/jhyunwoo/jhyunwoo/interval:30_days?label=last%2030d"/>
+<div align="center">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhyunwoo&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact"/>
+    </div>
+<div>
+    <img src="https://wakapi.dev/api/badge/jhyunwoo/jhyunwoo/interval:30_days?label=last%2030d"/>
+</div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
