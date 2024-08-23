@@ -1,7 +1,6 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&text=jhyunwoo&animation=fadeIn&fontColor=ffffff&fontSize=60" />
-    </div>
-    <div style="text-align: left;"> 
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhyunwoo&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact"/>
+<div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 주변에 도움되는 걸 만들기 좋아하는 풀스택 개발자 전현우입니다. </div> 
     </div>
