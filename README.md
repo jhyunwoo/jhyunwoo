@@ -7,7 +7,8 @@
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+    <div align="center"> 
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
