@@ -24,6 +24,7 @@ Email: jhyunwoo0228@gmail.com
 
 - 2024 연대x숙대 abc 해커톤 - 우수상
 - 제 2 회 연세 GenAI 활용 경진대회 - 금상
+- The Bridge Yonsei X Korea X UTokyo X Waseda Hackatone - 최우수상
 
 # Status.
 
