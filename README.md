@@ -9,7 +9,8 @@ Email: jhyunwoo0228@gmail.com
 # Products.
 
 - [모베토 - 로그인 없이 파일 공유하기](https://www.moveto.kr)
-- [GDGoC Yonsei Web](https://gdgoc.yonsei.ac.kr)
+- [GDGoC Yonsei Official Website](https://gdgoc.yonsei.ac.kr)
+- [연세대학교 연영회 웹사이트](https://yonyoung.yonsei.ac.kr)
 
 # Skill.
 
