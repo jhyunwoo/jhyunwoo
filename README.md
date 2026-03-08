@@ -23,11 +23,6 @@ Email: jhyunwoo0228@gmail.com
 # Awards.
 
 - 2024 연대x숙대 abc 해커톤 - 우수상
-- 제 2 회 연세 GenAI 활용 경진대회 - 금상
+- 제 2회 연세 GenAI 활용 경진대회 - 금상
 - The Bridge Yonsei X Korea X UTokyo X Waseda Hackatone - 최우수상
-
-# Status.
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhyunwoo&api_domain=wakapi.moveto.kr&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact"/>
-<img src="https://wakapi.moveto.kr/api/badge/jhyunwoo/jhyunwoo/interval:30_days?label=last%2030d"/>
-<img src="https://wakapi.moveto.kr/api/activity/chart/jhyunwoo.svg"/>
+- 제 3회 연세 GenAI 활용 경진대회 - 은상
