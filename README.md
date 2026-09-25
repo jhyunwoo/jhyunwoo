@@ -11,12 +11,12 @@
 
 ## Selected work
 
-| Project | Focus | Links |
+| Project | Focus | Public link |
 | --- | --- | --- |
-| Moveto | 로그인 없이 파일을 공유하는 웹 서비스 | [Website](https://www.moveto.kr) · [Repository](https://github.com/jhyunwoo/moveto-v2-web) |
+| Moveto | 로그인 없이 파일을 공유하는 웹 서비스 | [Website](https://www.moveto.kr) |
 | GDGoC Yonsei | 커뮤니티를 위한 공식 웹사이트 | [Website](https://gdgoc.yonsei.ac.kr) · [Repository](https://github.com/jhyunwoo/gdgoc-yonsei-web) |
-| YonYoung | 연세대학교 연영회 웹사이트 | [Website](https://yonyoung.yonsei.ac.kr) · [Repository](https://github.com/jhyunwoo/yonyoung) |
-| LiteAI / LiteChat | AI 기반 제품 실험과 대화형 서비스 | [LiteAI](https://github.com/jhyunwoo/liteai) · [LiteChat](https://github.com/jhyunwoo/litechat) |
+| YonYoung | 연세대학교 연영회 웹사이트 | [Website](https://yonyoung.yonsei.ac.kr) |
+| LiteAI / LiteChat | AI 기반 제품 실험과 대화형 서비스 | 운영·개발 중 |
 
 ## Technical strengths
 
